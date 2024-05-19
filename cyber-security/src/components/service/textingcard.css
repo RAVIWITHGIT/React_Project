@@ -1,0 +1,15 @@
+.serviceTestingCard h4{
+    font-family: Archivo;
+font-weight: 700;
+line-height: 34.82px;
+text-align: center;
+
+}
+
+.serviceTestingCard p{
+    font-family: Archivo;
+    font-weight: 200;
+    line-height: 26.11px;
+    text-align: center;
+    
+}

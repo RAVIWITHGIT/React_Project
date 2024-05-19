@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Press+Start+2P&display=swap');
+
+.certificatMain_section{
+    background-color: rgb(17, 25, 39);
+}
+
+.certificatF_section{
+    background-color: rgb(26, 35, 50);
+}
+.certificatF_section h1{
+    font-family: Archivo;
+font-weight: 700;
+
+}
+.certificatF_section p{
+    font-family: Archivo;
+font-weight: 400;
+}
+
+
+
+/* -----------------------------------------------brouchure--------------------------------------*/
+.brouchure_firstCard{
+    background-image: url('../Assets/certificatImg/broucher1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.brouchure_firstCard h2{
+font-weight: 400;
+font-family: "Press Start 2P", system-ui;
+font-weight: 400;
+font-style: normal;
+
+
+}
+.leftCertificat_cardContent p{
+    font-family: Archivo;
+    font-weight: 100;
+    
+}
+
+.brouchure_firstCard h4{
+    font-family: Archivo;
+font-weight: 100;
+
+}
+
+.brouchure_firstCard h3{
+    font-family: Archivo;
+font-weight: 400;
+}
+
+.rightCertificat_cardContent p{
+    font-family: Inter;
+font-weight: 300;
+line-height: 29.05px;
+text-align: left;
+
+}
+
+.certificatCard_footer span{
+    font-family: Inter;
+font-weight: 400;
+line-height: 38.73px;
+text-align: left;
+
+}
+
+/* ------------------------------------------------------------ */
+
+
+.brouchure_firstCard2{
+    background-image: url('../Assets/certificatImg/broucher2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.brouchure_firstCard2 h2{
+    font-weight: 400;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+    }
+
+    .leftCertificat_card2Content p{
+        font-family: Archivo;
+        font-weight: 100;
+        
+    }
+
+    .brouchure_firstCard2 h4{
+        font-family: Archivo;
+    font-weight: 100;
+    
+    }
+
+    .brouchure_firstCard2 h3{
+        font-family: Archivo;
+    font-weight: 400;
+    }
+
+    .rightCertificat_card2Content p{
+        font-family: Inter;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: left;
+    
+    }
+.certificatCard{
+    background-image: url('../Assets//certificatImg//certificatCardbg.png');
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    color: white;
+
+}
+
+
+.professionalText_section{
+    background-color: rgb(26, 35, 50);
+}
+.professionalText_section h1{
+    font-family: Archivo;
+font-weight: 700;
+
+}
+.professionalText_section p{
+    font-family: Archivo;
+    font-weight: 400;
+    line-height: 21.76px;
+}
+
+.certificatCard h5{
+    font-family: Archivo;
+/* font-size: 24px; */
+font-weight: 400;
+line-height: 26.11px;
+text-align: center;
+
+}
+
+.certificatCard button{
+    width: 180px;
+height: 40px;
+/* top: 3221px; */
+/* left: 386px; */
+gap: 0px;
+/* border-radius: 11px 0px 0px 0px; */
+opacity: 0px;
+
+}

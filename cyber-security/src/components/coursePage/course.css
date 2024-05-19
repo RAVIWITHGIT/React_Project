@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Press+Start+2P&display=swap');
+
+.course_mainSection{
+    background-color: rgb(17, 25, 39);   
+}
+
+.courseF_section{
+    background-color: rgb(26, 35, 50);
+}
+
+.courseF_section h1{
+    font-family: Archivo;
+font-weight: 700;
+}
+
+.courseF_section p{
+    font-family: Archivo;
+    font-size: 20px;
+    font-weight: 400;    
+}
+
+.course_card_section button{
+    /* width: 50px; */
+border-radius: 6px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+
+
+}
+
+
+.CCard{
+    background-image: url("../Assets/courseImg/Rectangle\ 35.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 1px solid yellow;
+
+}
+
+.CcardImg{
+    translate: 0px -20px;
+}
+
+.card_title{
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.CCard p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+
+}
+
+
+
+

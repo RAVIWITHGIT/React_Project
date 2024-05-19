@@ -1,0 +1,20 @@
+.st_img{
+    width: 120px !important;
+    border-radius: 30px !important;
+}
+
+.student_name{
+    font-family: Archivo;
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+
+}
+.student_des{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}

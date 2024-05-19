@@ -1,0 +1,65 @@
+footer{
+    background-color: rgba(23, 31, 45, 1);
+}
+
+.footer_h{
+    font-family: Archivo;
+font-size: 25px;
+font-weight: 800;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.fbtn{
+    font-family: Archivo;
+font-size: 19px;
+font-weight: 800;
+margin-left: 10px;
+
+
+}
+
+.fService{
+    font-family: Inter;
+font-size: 17px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+
+}
+
+.fsignIn{
+    font-family: Inter;
+font-size: 22px;
+font-weight: 600;
+/* text-align: center; */
+
+}
+.fsignIn button{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+
+}
+
+.rfContent{
+    font-family: Archivo;
+font-size: 17px;
+font-weight: 100;
+
+}
+.footer_icon{
+    color: yellow;
+    font-size: 23px;
+}
+
+.footer_copyright{
+font-size: 17px;
+font-weight: 100;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+}

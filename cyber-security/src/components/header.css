@@ -1,0 +1,50 @@
+a{
+    text-decoration: none;
+    
+}
+
+.mynav{
+    background-color: rgb(17, 25, 39);
+}
+
+/* ----------------------------------------navbar ---------------------------------------------- */
+.nav_h{
+font-size: 25px;
+font-weight: bolder;
+line-height: 39px;
+text-align: center;
+font-family: "Black Han Sans", sans-serif;
+    font-style: normal;
+}
+
+.navbtn1{
+    font-family: Archivo;
+font-weight: 800;
+font-size: 20px;
+text-align: center;
+}
+
+.navA{
+    font-size: 18px;
+    font-family: "Black Han Sans", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: white;
+
+}
+
+.signP{
+    font-size: 22px;
+    color: white;
+    font-family: "Black Han Sans", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+
+}
+
+.getE{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+}
+

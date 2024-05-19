@@ -1,0 +1,33 @@
+.main_page{
+    /* height: 60rem; */
+    /* height: 80rem; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100vw; */
+    background-color: rgb(17, 25, 39);
+} 
+
+.signin_content{
+    background-image: url('./Assets/signIn_signUpImg/signIn.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-bottom: 2px solid white;
+    color: white;
+}
+.signInBtnDiv{
+    translate: 0px -60px;
+    height: 20px;
+    z-index: 1;
+}
+::placeholder{
+    color: white !important;
+}
+
+.signInForm{
+    opacity: 0.8;
+    background-color: rgb(26, 35, 50);
+    background: rgba(26, 35, 50, 0.6);
+}

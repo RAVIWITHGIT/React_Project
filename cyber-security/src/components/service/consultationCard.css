@@ -1,0 +1,13 @@
+.consultationCard h4{
+    font-family: Archivo;
+    font-weight: 700;
+    line-height: 34.82px;
+    text-align: center;
+}
+.consultationCard p{
+    font-family: Archivo;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 26.11px;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.serviceImg1{
+    width: 13%;
+    translate: 30px -20px;
+
+}
+
+.fservice_sectionImg{
+    background-image: url('../Assets/serviceImg/Rectangle\ 71.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+::placeholder {
+    color: white;
+  }
+
+
+.fservice_section h2{
+    font-family: Archivo;
+font-weight: 600;
+
+}
+.fservice_section p{
+    font-family: Archivo;
+    font-weight: 400;
+    line-height: 20.11px;
+    
+
+}
+
+.testing_section h2{
+    font-family: Archivo;
+font-size: 50px;
+font-weight: 700;
+
+}
+
+.consultation_section h2{
+    font-family: Archivo;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.consultation_section p{
+    font-family: Archivo;
+font-size: 25px;
+font-weight: 400;
+
+}

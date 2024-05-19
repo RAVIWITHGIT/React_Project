@@ -1,0 +1,84 @@
+.journey_heading{
+    border-bottom: 2px solid red;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.aboutF_section h2{
+    font-family: Archivo;
+font-size: 50px;
+font-weight: 700;
+line-height: 70.12px;
+text-align: left;
+
+}
+
+.aboutF_section button{
+    width: 150px;
+height: 40px;
+margin-top: 40px;
+gap: 0px;
+
+}
+
+.Journey_section h3{
+    font-family: Archivo;
+font-size: 56px;
+font-weight: 700;
+line-height: 120.12px;
+text-align: left;
+
+}
+.Journey_section h2{
+    font-family: Archivo;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 56.3px;
+    text-align: left;
+    
+
+}
+
+.Journey_section p{
+    font-family: Archivo;
+font-weight: 400;
+line-height: 30.03px;
+text-align: left;
+}
+
+.success_section h3{
+    font-family: Archivo;
+font-size: 44px;
+font-weight: 700;
+line-height: 80.08px;
+text-align: left;
+
+}
+
+.success_sectionFpara{
+    font-family: Archivo;
+font-size: 20px;
+font-weight: 400;
+line-height: 30.79px;
+text-align: justified;
+
+}
+
+.success_section h2{
+    font-family: Archivo;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 56.3px;
+    text-align: left;
+    
+
+}
+.success_section p{
+    font-family: Archivo;
+font-weight: 400;
+line-height: 30.03px;
+text-align: left;
+
+    
+
+}
